@@ -3,7 +3,7 @@
 # Extra Wallet — Personal Finance App
 
 **Extra Wallet** is a **personal finance desktop application** built with **Java**, managed via **Maven**, and powered by **JavaFX** for a clean and responsive GUI. All data is stored locally using **SQLite**, making the app lightweight, reliable, and fully offline.
-
+ 
 ## Overview
 
 Take control of your finances with Extra Wallet. Designed for personal use, it provides secure local storage, insightful reporting, and a smooth desktop experience.
